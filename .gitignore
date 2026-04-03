@@ -1,4 +1,7 @@
 venv/
---pycache
-*.pycache
-.behave
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.behave/
+reports/
