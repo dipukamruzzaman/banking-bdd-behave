@@ -1,3 +1,4 @@
+![Behave BDD Tests](https://github.com/dipukamruzzaman/banking-bdd-behave/actions/workflows/tests.yml/badge.svg)
 # Banking API BDD Tests — Behave & Gherkin
 
 A BDD test automation project for a Banking REST API using **Behave** and **Gherkin** syntax.
